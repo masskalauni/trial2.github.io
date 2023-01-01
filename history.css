@@ -1,0 +1,40 @@
+
+    .history1{
+       background-size: cover;
+        background-image:  linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.4)),url("../navbar/snsc-004\ \(1\).jpg");
+        height:30vh;
+        width:100%;
+        background-repeat: no-repeat;
+        background-position-x: left;
+        background-attachment: fixed;
+        overflow: hidden;
+        background-position: center center;
+       
+    }
+    .center_content{
+       
+        height:20vh;
+        width:80%;
+       margin-left:265px;
+       margin-top:50px;
+       
+    }
+    .center_content h1{
+        display: block;
+        align-items: center;
+        align-content: center;
+        align-self: center;
+        margin-left: 350px;
+        margin-top: 80px;
+        filter:none;
+        color:white;
+        font-weight: bold;
+        font-size:30px;
+        font-family:  sans-serif;
+        margin-bottom:150px;
+    }
+    .intro{
+        background-color:white;
+        width:50%;
+        height:50%;
+    }
